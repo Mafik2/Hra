@@ -10,11 +10,18 @@ public class Main {
         Level3 level3 = new Level3();
         Level4 level4 = new Level4();
         Level5 level5 = new Level5();
-        Level[] levels = {level1, level2, level3, level4, level5};
+        Level6 level6 = new Level6();
+        Level7 level7 = new Level7();
+        Level8 level8 = new Level8();
+        Level9 level9 = new Level9();
+        Level10 level10 = new Level10();
+        Level11 level11 = new Level11();
+        Level12 level12 = new Level12();
+        Level[] levels = {level1, level2, level3, level4, level5, level6, level7, level8, level9, level10, level11, level12};
         int currentLevel = 0;
 
         Player player = new Player(levels[currentLevel]);
-        Enemy enemy = new Enemy(levels[currentLevel],2 ); // Minimální vzdálenost protivníka od hráče
+        Enemy enemy = new Enemy(levels[currentLevel], 2); // Minimální vzdálenost protivníka od hráče
 
         Scanner scanner = new Scanner(System.in);
 

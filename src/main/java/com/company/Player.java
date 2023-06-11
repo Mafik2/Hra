@@ -106,9 +106,7 @@ public class Player {
             int enemyX = enemyPosition.getX();
             int enemyY = enemyPosition.getY();
 
-            double distance = Math.sqrt(Math.pow(playerX - enemyX, 2) + Math.pow(playerY - enemyY, 2));
-
-            if (distance <= 1.0) {
+            if (playerX == enemyX && playerY == enemyY) {
                 System.out.println("Prohrál jsi! Protivník tě chytil.");
                 System.exit(0);
             }

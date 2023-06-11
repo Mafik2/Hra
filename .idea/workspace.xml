@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2da358a4-3fff-4625-bb72-f24d430454a9" name="Changes" comment="" />
+    <list default="true" id="2da358a4-3fff-4625-bb72-f24d430454a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Level10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Level11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Level12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Level6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Level7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Level8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Level9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Level2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Level2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Level3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Level3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Level4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Level4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Level5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Level5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Player.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,18 +40,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2QuvPkd22bYmQAxjygkMK0M8lj8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
@@ -64,11 +87,22 @@
       <updated>1686216261713</updated>
       <workItem from="1686216264414" duration="2643000" />
       <workItem from="1686241548820" duration="4011000" />
-      <workItem from="1686400594721" duration="32157000" />
+      <workItem from="1686400594721" duration="34755000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
